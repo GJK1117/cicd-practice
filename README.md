@@ -1,2 +1,2 @@
-# cicd-practice
-교보DTS Cloud architecture DX Academy(CDA) CI/CD 실습
+# flask
+For CI/CD
